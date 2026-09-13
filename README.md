@@ -11,7 +11,7 @@
 Soy **Alex Ruiton Tafur**, estudiante de **Ingeniería de Sistemas Computacionales** en la **UPN**, con enfoque en **Ingeniería de Software e Inteligencia Artificial**.
 
 - 🚀 Me apasiona el **desarrollo web**, el **desarrollo de aplicaciones móviles** y la creación de sistemas que realmente faciliten la vida de empresas y negocios.
-- 🌱 Actualmente profundizando en **Java** y explorando **Laravel**.
+- 🌱 Actualmente profundizando en **Java and C#** y explorando framworks como **Laravel**.
 - 🎯 Desarrollé un sistema de control de asistencia mediante **reconocimiento facial** para la **Municipalidad Provincial de Cajamarca**, usando Python, Django e InsightFace.
 - ⚽ Fuera de la programación, me apasiona el **fútbol**, la **música** y pasar tiempo en **familia**.
 - 📫 Contáctame en: **aruitontafur@gmail.com**
@@ -58,7 +58,6 @@ Soy **Alex Ruiton Tafur**, estudiante de **Ingeniería de Sistemas Computacional
 
 - **[Sistema de Control de Asistencia por Reconocimiento Facial](https://github.com/alexxrt22/SISTEMA-WEB-DE-CONTROL-DE-ASISTENCIA)** — Desarrollado para la Municipalidad Provincial de Cajamarca. Python + Django + InsightFace.
 - **[SistemaBibliotecaUML](https://github.com/alexxrt22/SistemaBibliotecaUML)** — Sistema de biblioteca modelado en UML, desarrollado en Java.
-- **Descargador multimedia** — Descargador de videos hecho en Python.
 - **Sistema de Entrenamiento Personalizado** — App donde un coach brinda entrenamientos personalizados a sus clientes *(en desarrollo, disponible en rama secundaria)*.
 
 ---
